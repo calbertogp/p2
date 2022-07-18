@@ -4,15 +4,15 @@
 
 Tecnologies used: 
 
-yfinance
-pandas
-numpy 
-hvplot.pandas
-matplotlib.pyplot
-sklearn
-sklearn.preprocessing - StandardScaler
-from pandas.tseries.offsets import DateOffset
-from sklearn.metrics import classification_report
+yfinance,
+pandas,
+numpy, 
+hvplot.pandas,
+matplotlib.pyplot,
+sklearn,
+sklearn.preprocessing - StandardScaler,
+from pandas.tseries.offsets import DateOffset,
+from sklearn.metrics import classification_report,
 Google Colab
 
 
